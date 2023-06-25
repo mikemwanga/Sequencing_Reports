@@ -1,0 +1,8 @@
+  /* set the background color of many elements across the grid */
+.ag-theme-alpine {
+    --ag-background-color: #f5f8f8 !important;
+    --ag-header-background-color: #ebeef0;
+    --ag-font-size: 12px;
+    --ag-font-family: Arial;
+    --ag-borders: none;
+  }
