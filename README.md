@@ -8,4 +8,4 @@ This serves to provide updated information on circulating variants and better un
 
 [Example summary](https://github.com/mikemwanga/Sequencing_Reports/blob/main/reports/Run239_summary.pdf)
 
-<img src="https://github.com/mikemwanga/Sequencing_Reports/blob/main/reports/plot.png" width="600" height="600">)
+<img src="https://github.com/mikemwanga/Sequencing_Reports/blob/main/reports/plot.png" width="550" height="600">
