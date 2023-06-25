@@ -7,3 +7,5 @@ This platform summarizes weekly sequencing data generated from the lab. The summ
 This serves to provide updated information on circulating variants and better understading of COVID-19 disease.
 
 [Example summary](https://github.com/mikemwanga/Sequencing_Reports/blob/main/reports/Run239_summary.pdf)
+
+![plot](https://github.com/mikemwanga/Sequencing_Reports/blob/main/reports/plot.png)
